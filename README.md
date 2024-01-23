@@ -1,4 +1,4 @@
-# basketballstats
+# Basketball Stats
 This will be the stats that come out of the information given for ranking and stats of NBA players.
 The titles are standard within the NBA community and therefore may not be familiar people who arent familiar with the sport. This is is not a place to explain each and every rule or technical term however I have included what the titles of the raw data mean here which you can either find on Kaggle (https://www.kaggle.com/datasets/vivovinco/nba-player-stats).
 
